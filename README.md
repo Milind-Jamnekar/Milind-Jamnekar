@@ -37,9 +37,7 @@
   <img align="left" src="https://badges.aleen42.com/src/python.svg" />
   <img align="left" src="https://badges.aleen42.com/src/java.svg" />
 </p>
-<br>
-<br>
-
+</br>
 <h4>UI Libraries & Frameworks</h4>
 <p>
   <img align="left" src="https://badges.aleen42.com/src/react.svg" />
@@ -47,15 +45,12 @@
   <img align="left" src="https://badges.aleen42.com/src/vue.svg" />
   <img align="left" src="https://badges.aleen42.com/src/javascript.svg" />
 </p>
-<br>
-<br>
+</br>
 <h4>Server Side Libraries & Frameworks</h4>
 <p>
   <img align="left" src="https://badges.aleen42.com/src/node.svg" />
 </p>
 <br/>
-<br/>
-
 <h4>Tools and libraries</h4>
 <p>
 <img align="left" src="https://badges.aleen42.com/src/esbuild.svg">
@@ -70,10 +65,9 @@
 <img align="left" src="https://badges.aleen42.com/src/jest_2.svg">
 <img align="left" src="https://badges.aleen42.com/src/npm.svg">
 <img align="left" src="https://badges.aleen42.com/src/react-router.svg">
-
 </p>
 
-<br/><br/>
+<br/>
 
 ---
 
