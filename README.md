@@ -17,10 +17,7 @@
 
 #### Connect with me
 
-<a href="https://www.linkedin.com/in/milindjamnekar/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://twitter.com/Milindjamnekar"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-<a href="mailto:milind.jamnekar@yahoo.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://calendly.com/milindjamnekar"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=for-the-badge&logo=Google Calendar&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/milindjamnekar/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a><a href="https://twitter.com/Milindjamnekar"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" /></a><a href="mailto:milind.jamnekar@yahoo.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a><a href="https://calendly.com/milindjamnekar"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=for-the-badge&logo=Google Calendar&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -54,10 +51,6 @@
 <br>
 <h4>Server Side Libraries & Frameworks</h4>
 <p>
-  <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
-  <img align="left" src="https://img.shields.io/badge/GraphQL-1c1c1c?&style=flat-square&logo=GraphQL" />
-  <img align="left" src="https://img.shields.io/badge/Firebase-1c1c1c?&style=flat-square&logo=Firebase" />
-  <img align="left" src="https://img.shields.io/badge/Supabase-1c1c1c?&style=flat-square&logo=Supabase" />
   <img align="left" src="https://badges.aleen42.com/src/node.svg" />
 </p>
 <br/>
