@@ -63,7 +63,7 @@
 <img align="left" src="https://badges.aleen42.com/src/atom.svg">
 <img align="left" src="https://badges.aleen42.com/src/docker.svg">
 <img align="left" src="https://badges.aleen42.com/src/visual_studio_code.svg">
-<img align="left" src="https://badges.aleen42.com/src/vite.svg">
+<img align="left" src="https://badges.aleen42.com/src/vitejs.svg">
 <img align="left" src="https://badges.aleen42.com/src/eslint.svg">
 <img align="left" src="https://badges.aleen42.com/src/redux.svg">
 <img align="left" src="https://badges.aleen42.com/src/jest_1.svg">
