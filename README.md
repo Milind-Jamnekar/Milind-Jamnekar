@@ -2,7 +2,7 @@
 
 ![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F) .... coming soon 
 
-<h3>I'm a Creative Developer Frontend developer</h3>
+<h3>I'm a Creative Frontend developer</h3>
 
 - 📚 I'm currently learning WebGL, Data Science and Blockchain (Weird, ikr?)
 - 🎯 2022 Goals
