@@ -4,17 +4,6 @@
 
 <h3>I'm a Creative Frontend developer</h3>
 
-- 📚 I'm currently learning WebGL, Data Science and Blockchain (Weird, ikr?)
-- 🎯 2022 Goals
-  - Get a Job 😅 (tired of college)
-  - Learning Three.js and blender basics so I can learn integration of both
-  - Try out some simulations using ThreeJS
-  - Try out Svelte/SvelteKit
-  - Start publishing some open source project
-  - Complete #101DaysOfCode Challenge
-  - Work on some Web3 Projects and learn more about Smart Contracts
-- I Like to watch Anime ϞϞ(๑⚈ ․̫ ⚈๑)∩
-
 #### Connect with me
 
 <a href="https://www.linkedin.com/in/milindjamnekar/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a><a href="https://twitter.com/Milindjamnekar"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" /></a><a href="mailto:milind.jamnekar@yahoo.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a><a href="https://calendly.com/milindjamnekar"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=for-the-badge&logo=Google Calendar&logoColor=white" /></a>
