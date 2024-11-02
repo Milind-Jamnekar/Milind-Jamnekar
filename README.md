@@ -1,8 +1,5 @@
-### Hi, I'm Milind Jamnekar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Milind Jamnekar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> a full-stack web developer
 
-![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F) .... coming soon 
-
-<h3>I'm a Fullstack web developer</h3>
 
 #### Connect with me
 
